@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="item1">واحد</string>
+    <string name="item2">اثنان</string>
+    <string name="item3"> ثلاثة</string>
+
+    <string name="group_item1">ايتم مجموعة واحد</string>
+    <string name="group_item2">ايتم مجموعة اثنان </string>
+
+</resources>

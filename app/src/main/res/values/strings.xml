@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MenuAssignment</string>
+
+    <string name="item1">item 1</string>
+    <string name="item2">item 2</string>
+    <string name="item3">item 3</string>
+
+    <string name="group_item1">This is group item 1</string>
+    <string name="group_item2">This is group item 2</string>
+
+
+</resources>
